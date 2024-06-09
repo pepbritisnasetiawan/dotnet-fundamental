@@ -2,7 +2,7 @@ namespace FundamentalUpskilling;
 
 public class Looping
 {
-    public static void Main(string[] args)
+    public void Main(string[] args)
     {
         /*
          * for -> counted loop -> tau kapan berenti
@@ -42,11 +42,30 @@ public class Looping
             k++;
         } while (k < 20);
 
-        Console.WriteLine("Masukkan input: ");
-        var input = Console.ReadLine();
+        // Console.WriteLine("Masukkan input: ");
+        // var input = Console.ReadLine();
 
-        var convToInt = Convert.ToInt16(input); // convert input
-        Console.WriteLine(input);
-        Console.WriteLine(convToInt.GetType());
+        // var convToInt = Convert.ToInt16(input); // convert input
+        // Console.WriteLine(input);
+        // Console.WriteLine(convToInt.GetType());
+
+        for (var row = 1; row < 11; row++)
+        {
+            for (char column = 'a'; column < 'k'; column++)
+            {
+                Console.WriteLine($"The cell is ({row}, {column})");
+            }
+        }
+        
+        // palindrom
+        var strings = "kodok";
+        var palindrom = "";
+        for (var a = strings.Length - 1; a >= 0 ; a--)
+        {
+           palindrom += Convert.ToString(strings[a]);
+        }
+
+        var c = palindrom.Contains(strings);
+        Console.WriteLine(c);
     }
 }

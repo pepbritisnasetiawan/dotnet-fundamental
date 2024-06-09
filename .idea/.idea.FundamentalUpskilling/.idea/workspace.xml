@@ -7,11 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7661151-91d9-4638-b542-8d2b6f57f3e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FundamentalUpskilling/Conditional.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FundamentalUpskilling/Looping.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FundamentalUpskilling/Operator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FundamentalUpskilling/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FundamentalUpskilling/Program.cs" afterDir="false" />
+    <list default="true" id="e7661151-91d9-4638-b542-8d2b6f57f3e9" name="Changes" comment="fundamental">
+      <change afterPath="$PROJECT_DIR$/FundamentalUpskilling/MyArray.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FundamentalUpskilling/MyMethod.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FundamentalUpskilling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FundamentalUpskilling/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FundamentalUpskilling/Looping.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FundamentalUpskilling/Looping.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pepbritisnasetiawan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pepbritisnasetiawan/dotnet-fundamental.git",
+    "accountId": "2fe0ccf7-3bf3-4f17-904f-851d0edb936f"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -81,15 +94,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717936890679</updated>
-      <workItem from="1717936891996" duration="8679000" />
+      <workItem from="1717936891996" duration="18267000" />
     </task>
+    <task id="LOCAL-00001" summary="fundamental">
+      <option name="closed" value="true" />
+      <created>1717949893686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717949893686</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="fundamental" />
+    <option name="LAST_COMMIT_MESSAGE" value="fundamental" />
   </component>
 </project>
